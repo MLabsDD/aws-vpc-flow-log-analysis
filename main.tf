@@ -3,7 +3,7 @@
 //
 
 terraform {
-  required_version = "0.11.2"
+  required_version >= "0.11.2"
 }
 
 // VPC Flow Log
